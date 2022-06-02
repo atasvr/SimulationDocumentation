@@ -1,0 +1,28 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Test
+  name: Test
+  href: api/Test.html
+  commentId: N:Test
+  fullName: Test
+  nameWithType: Test
+- uid: Test.Class1
+  name: Class1
+  href: api/Test.Class1.html
+  commentId: T:Test.Class1
+  fullName: Test.Class1
+  nameWithType: Class1
+- uid: Test.Class1.Method_1
+  name: Method_1()
+  href: api/Test.Class1.html#Test_Class1_Method_1
+  commentId: M:Test.Class1.Method_1
+  fullName: Test.Class1.Method_1()
+  nameWithType: Class1.Method_1()
+- uid: Test.Class1.Method_1*
+  name: Method_1
+  href: api/Test.Class1.html#Test_Class1_Method_1_
+  commentId: Overload:Test.Class1.Method_1
+  isSpec: "True"
+  fullName: Test.Class1.Method_1
+  nameWithType: Class1.Method_1
